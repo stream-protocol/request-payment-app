@@ -14,8 +14,7 @@ Choose your chain, add a list of recipient addresses and salaries, choose the pa
 
 Application allows you to share templates, edit them and execute payments. Need a new payment? You can edit an existing payment and execute it quickly.
 
-#### Easily control your
-company crypto expenses:
+#### Easily control your company expenses:
 
 Keep track of all your organisation crypto payments in one place, quickly repeat payments, rewards and payrolls.
 
